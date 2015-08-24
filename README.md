@@ -67,3 +67,4 @@ ActivityLess.$fullScreen(this);
 ```
 
 See more details on the [WIKI](https://github.com/openproject/LessCode/wiki)
+
